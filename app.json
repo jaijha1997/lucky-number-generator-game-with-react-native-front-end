@@ -1,0 +1,14 @@
+{
+  "name": "game",
+  "displayName": "game",
+
+  "expo": {
+    "name": "game",
+    "slug": "my-app",
+    "icon": "Letter-J-icon.png",
+    "sdkVersion": "37.0.0",
+    "android": {
+      "package": "com.yourcompany.game"
+    }
+  }
+}
